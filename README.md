@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations InzamamulQureshi! 🎉
+# 🎉 Congratulations Inzamamul Haque Qureshi! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
